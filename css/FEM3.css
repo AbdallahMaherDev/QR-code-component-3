@@ -37,8 +37,6 @@ body {
     border-radius: 8px;
 }
 .container .info {
-    gap: 24px;
-    display: grid;
     padding: 10px;
     text-align: center;
 }
