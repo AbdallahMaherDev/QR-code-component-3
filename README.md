@@ -18,13 +18,13 @@ HTML
 
 CSS3 (Flexbox & Grid for layout)
 
-git clone [[https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1]](https://luxury-longma-ced26c.netlify.app/)
+git clone [[[https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1]](https://luxury-longma-ced26c.netlify.app/)](https://github.com/AbdallahMaherDev/QR-code-component-3)
 
 Open index.html in your browser to view the component.
 
 🎨 Preview
 
-Live Demo [(Add a link if hosted](https://velvety-kataifi-a399ba.netlify.app/)]
+Live Demo [[(Add a link if hosted](https://velvety-kataifi-a399ba.netlify.app/)]](https://luxury-longma-ced26c.netlify.app/)
 
 📬 Contact
 
