@@ -18,7 +18,7 @@ HTML
 
 CSS3 (Flexbox & Grid for layout)
 
-git clone [https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1]
+git clone [[https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1]](https://luxury-longma-ced26c.netlify.app/)
 
 Open index.html in your browser to view the component.
 
