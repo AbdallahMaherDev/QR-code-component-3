@@ -2,8 +2,7 @@ Frontend Mentor - QR code component
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
-
+Hello! I'm Abdallah Maher, and this is a solution to the "QR code component" challenge from Frontend Mentor.  This project is a simple yet elegant QR code component that follows best practices in design and responsiveness. The goal was to create a visually appealing and accessible component that fits seamlessly into any interface
 🚀 Features
 
 Responsive and accessible design
@@ -14,13 +13,8 @@ Dynamic score representation
 
 🛠 Technologies Used
 
-HTML
+HTML /  CSS (Flexbox)
 
-CSS3 (Flexbox & Grid for layout)
-
-git clone (https://luxury-longma-ced26c.netlify.app/)](https://github.com/AbdallahMaherDev/QR-code-component-3)
-
-Open index.html in your browser to view the component.
 
 🎨 Preview
 
